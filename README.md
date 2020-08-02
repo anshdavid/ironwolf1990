@@ -13,11 +13,11 @@
 
 ---
 
-<img align="left" alt="ironwolf1990's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ironwolf1990&show_icons=true&theme=monokai&hide_border=true" />
+<img align="centre" alt="ironwolf1990's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ironwolf1990&show_icons=true&theme=monokai&hide_border=true" />
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ironwolf1990)](https://github.com/ironwolf1990/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ironwolf1990)](https://github.com/ironwolf1990/github-readme-stats) -->
 
 ---
 
