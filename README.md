@@ -17,7 +17,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ironwolf1990&layout=compact&hide=javascript,html,jupyternotebook)](https://github.com/ironwolf1990/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ironwolf1990&layout=compact&show=javascript,html)](https://github.com/ironwolf1990/github-readme-stats)
 
 ---
 
