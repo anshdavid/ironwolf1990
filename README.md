@@ -1,5 +1,7 @@
 
-### Hi there, I'm ironwolf1990 - aka [David][website] 👋 [![](https://https://visitor-badge.glitch.me/badge?page_id=ironWolf1990.ironWolf1990]()
+[![](https://https://visitor-badge.glitch.me/badge?page_id=ironWolf1990.ironWolf1990]()
+
+### Hi there, I'm ironwolf1990 - aka [David][website] 👋 
 
 ## I'm Reader, Learner, and Developer!
 - 🔭 I know a little bit of everything!
