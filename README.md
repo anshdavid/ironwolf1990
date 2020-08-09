@@ -1,5 +1,5 @@
 
-### Hi there, I'm ironwolf1990 - aka [David][website] 👋 
+### Hi there lukcy number https://profile-counter.glitch.me/ironwolf1990/count.svg, I'm ironwolf1990 - aka [David][website] 👋 
 
 ## I'm Reader, Learner, and Developer!
 - 🔭 I know a little bit of everything!
