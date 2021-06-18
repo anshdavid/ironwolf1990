@@ -36,7 +36,7 @@
   <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20--EE4C2C?style=for-the-badge&logo=PyTorch"></a>
   <a href="#"><img alt="Scikit" src="https://img.shields.io/badge/Scikit%20--F7931E?style=for-the-badge&logo=scikit-learn"></a>
   <a href="#"><img alt="Cuda" src="https://img.shields.io/badge/Cuda%20--76B900?style=for-the-badge&logo=NVIDIA"></a>
-  <a href="#"><img alt="Numpy"></a>
+  <a href="#"><img alt="Numpy" src="https://img.shields.io/badge/NumPy%20--013243?style=for-the-badge&logo=NumPy"></a>
 
 </p>
 
@@ -49,7 +49,6 @@
   <a href="#"><img alt="LXD" src="https://img.shields.io/badge/LXD%20--333333?style=for-the-badge&logo=Linux%20Containers"></a>
   <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github%20--181717?style=for-the-badge&logo=Github"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20--F05032?style=for-the-badge&logo=Git"></a>
-  <a href="#"><img alt="Numpy"></a>
 </p>
 
 
