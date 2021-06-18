@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UC8SEKa2qg_vnxo-7AoKMA1w">
-    <img src="https://img.shields.io/badge/YouTube-%#FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" />
+    <img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>&nbsp;&nbsp;
 </p>
 
