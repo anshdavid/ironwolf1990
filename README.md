@@ -3,12 +3,6 @@
   Hi there 👋 I'm <a href="https://anshdaviddev.com/">David</a> 👨‍💻
 </h1>
 
-### I'm Reader, Learner, and Developer!
-- 🔭 I know a little bit of everything!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: - I love to watch and sketch animes
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/ansh-david-071b0354/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -17,6 +11,12 @@
     <img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>&nbsp;&nbsp;
 </p>
+
+### I'm Reader, Learner, and Developer!
+- 🔭 I know a little bit of everything!
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: - I love to watch and sketch animes
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ironwolf1990&show_icons=true&count_private=true&theme=dark" width="450"></a>
