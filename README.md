@@ -41,7 +41,7 @@
 
 ### 💻 Software and tools
 <p>
-  <a href="#"><img alt="Wolfram" src="https://img.shields.io/badge/mathematica%20--DD1100?style=for-the-badge&logo=mathematica"></a>
+  <a href="#"><img alt="Wolfram" src="https://img.shields.io/badge/mathematica%20--DD1100?style=for-the-badge&logo=wolfram-mathematica"></a>
   <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/Code%20--007ACC?style=for-the-badge&logo=Visual%20Studio%20Code"></a>
   <a href="#"><img alt="Unity3D" src="https://img.shields.io/badge/Unity%20--000000?style=for-the-badge&logo=Unity"></a>
   <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim%20--019733?style=for-the-badge&logo=Vim"></a>
